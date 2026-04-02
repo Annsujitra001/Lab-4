@@ -1,5 +1,7 @@
 # Lab-4
 
+Lab 4: Geographic Modeling — สร้างและตรวจสอบแบบจำลองเชิงพื้นที่
+
 2. สร้างและรัน Spatial Model
 
         ขั้นตอนการวิเคราะห์ (Spatial MCA Model)
